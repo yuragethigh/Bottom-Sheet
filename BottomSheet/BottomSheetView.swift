@@ -10,6 +10,7 @@ import SwiftUI
 struct BottomSheetView: View {
     //112233441112233233232323
     //test
+    //test 2222
     @Binding var isShowing: Bool
     @State private var curHeight: CGFloat = 400
     
